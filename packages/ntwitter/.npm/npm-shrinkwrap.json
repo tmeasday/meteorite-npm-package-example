@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "ntwitter": {
+      "version": "0.5.0",
+      "from": "ntwitter@0.5.0",
+      "resolved": "https://registry.npmjs.org/ntwitter/-/ntwitter-0.5.0.tgz",
+      "dependencies": {
+        "oauth": {
+          "version": "0.9.10",
+          "from": "oauth@>=0.8.4",
+          "resolved": "https://registry.npmjs.org/oauth/-/oauth-0.9.10.tgz"
+        },
+        "cookies": {
+          "version": "0.1.6",
+          "from": "cookies@0.1.x",
+          "resolved": "https://registry.npmjs.org/cookies/-/cookies-0.1.6.tgz"
+        },
+        "keygrip": {
+          "version": "0.2.2",
+          "from": "keygrip@0.2.x",
+          "resolved": "https://registry.npmjs.org/keygrip/-/keygrip-0.2.2.tgz"
+        }
+      }
+    }
+  }
+}
